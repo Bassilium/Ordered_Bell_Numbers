@@ -8,16 +8,16 @@ OEIS:[A000670](https://oeis.org/A000670)
 
 Предподсчёт:
 
-Функция 'total':
+Функция `total`:
 
-Функция 'generate_all':
+Функция `generate_all`:
 
-Функция 'is_valid':
+Функция `is_valid`:
 
-Функция 'number_by_object':
+Функция `number_by_object`:
 
-Функция 'object_by_number':
+Функция `object_by_number`:
 
-Функция 'prev':
+Функция `prev`:
 
-Функция 'next':
+Функция `next`:
