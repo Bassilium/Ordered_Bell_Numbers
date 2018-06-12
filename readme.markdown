@@ -6,6 +6,8 @@ OEIS:[A000670](https://oeis.org/A000670)
 
 Ссылки:[Wikipedia](https://en.wikipedia.org/wiki/Ordered_Bell_number)
 
+n=17 — максимальное число, для которого упорядоченное число Белла n лежит в `int64_t`.
+
 Предподсчёт:
 
 Функция `total`:
